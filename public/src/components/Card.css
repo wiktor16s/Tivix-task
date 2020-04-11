@@ -1,0 +1,27 @@
+.wrapper {
+  height: 100%;
+  width: 100%;
+  border: 0px solid none;
+}
+
+.CardHeader {
+  height: 100%;
+  min-height:25px;
+  text-align: center;
+  background: #0080ae8d;
+  box-shadow: 0px 3px 6px #363636;
+  z-index: 2;
+}
+
+.CardBody {
+  height: 100%;
+  min-height:150px;
+  padding-bottom: 10%;
+  background: #ade8fdde;
+  border: 1px solid #79a3b32f;
+  box-shadow: 1px 1px 3px gray;
+}
+
+.row-dark{
+  background: #0192c7b3;
+}

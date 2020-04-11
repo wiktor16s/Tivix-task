@@ -1,0 +1,12 @@
+form {
+  background-color: none;
+}
+
+.form-row {
+  padding: 10px;
+}
+
+.themeButtonColor {
+  background: #7555ED;
+  color: white;
+}
